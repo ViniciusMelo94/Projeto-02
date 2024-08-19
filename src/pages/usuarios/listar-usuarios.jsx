@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import './lista-usuarios.css';
+import './listar-usuarios.css';
 import { BotaoVoltar } from '../../components/botaoVoltar/botao-voltar';
 import {Sidebar} from '../../components/Sidebar/sidebar'
 
