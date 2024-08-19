@@ -75,48 +75,7 @@
       "estado": "AM",
       "id": "d556"
     },
-    {
-      "id": "ea64",
-      "nome": "Vinicius",
-      "sexo": "masculino",
-      "cpf": "089.971.089-13",
-      "dataNascimento": "1994-05-23",
-      "email": "vinicius@hotmail.com",
-      "senha": "123456",
-      "cep": "",
-      "logradouro": "",
-      "bairro": "",
-      "cidade": "",
-      "estado": ""
-    },
-    {
-      "id": "18ac",
-      "nome": "Vinicius Melo",
-      "sexo": "masculino",
-      "cpf": "08997108908",
-      "dataNascimento": "1994-05-23",
-      "email": "vinicius2@hotmail.com",
-      "senha": "123456",
-      "cep": "",
-      "logradouro": "",
-      "bairro": "",
-      "cidade": "Governador Celso Ramos",
-      "estado": "SC"
-    },
-    {
-      "id": "05ca",
-      "nome": "Vinicius Melo",
-      "sexo": "masculino",
-      "cpf": "08997108908",
-      "dataNascimento": "1994-05-23",
-      "email": "vinicius2@hotmail.com",
-      "senha": "123456",
-      "cep": "",
-      "logradouro": "",
-      "bairro": "",
-      "cidade": "Governador Celso Ramos",
-      "estado": "SC"
-    },
+    
     {
       "id": "2f85",
       "nome": "Vinicius Mello",
@@ -131,34 +90,8 @@
       "cidade": "Florianópolis",
       "estado": "SC"
     },
-    {
-      "id": "6c1e",
-      "nome": "Vinicius",
-      "sexo": "masculino",
-      "cpf": "08997108910",
-      "dataNascimento": "1994-05-23",
-      "email": "vinicius@hotmail.com",
-      "senha": "123456",
-      "cep": "",
-      "logradouro": "",
-      "bairro": "",
-      "cidade": "",
-      "estado": ""
-    },
-    {
-      "id": "314c",
-      "nome": "Vinicius",
-      "sexo": "masculino",
-      "cpf": "08997108910",
-      "dataNascimento": "1994-05-23",
-      "email": "vinicius@hotmail.com",
-      "senha": "123456",
-      "cep": "8819000",
-      "logradouro": "",
-      "bairro": "",
-      "cidade": "",
-      "estado": ""
-    },
+    
+    
     {
       "id": "87fb",
       "nome": "Vinicius",
