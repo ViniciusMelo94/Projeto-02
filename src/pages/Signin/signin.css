@@ -1,0 +1,116 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .formSignin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 400px;
+    width: 100%;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.9); 
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .form-floating {
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  .form-floating label {
+    position: absolute;
+    top: -8px;
+    left: 12px;
+    font-size: 16px;
+    color: #888;
+    transition: 0.2s ease-in-out;
+    background: #fff;
+    padding: 0 4px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  .form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
+  }
+  
+  .form-check {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+  }
+  
+  .form-check-input {
+    margin-right: 10px;
+  }
+  
+  .form-check-label {
+    margin: 0;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 12px;
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    width: 100%;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    transform: scale(1.02);
+  }
+  
+  /* Estilo do link */
+  p {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  p a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  p a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Estilos responsivos */
+  @media (max-width: 767px) {
+    .container {
+      padding: 10px;
+    }
+  
+    .formSignin {
+      padding: 20px;
+    }
+  }
