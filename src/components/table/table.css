@@ -1,0 +1,29 @@
+.tableUsuarios {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.tableUsuarios th, .tableUsuarios td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.tableUsuarios th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+.tableUsuarios tr:hover {
+    background-color: #f1f1f1;
+}
+
+.edit-button {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.edit-button:hover {
+    text-decoration: underline;
+}
